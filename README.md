@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Premchandar.j</h1>
 <h1 align="center">A boy who going to create Revolution in Tech</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PREM-OFFICIAL&label=Profile%20views&color=129e00&style=plastic" alt="premchandar.j" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PREM-OFFICIAL&show_icons=true&locale=en" alt="Premchandar.j" /></p>
-<img align="right" alt="avento" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prem497-OFFICIAL&show_icons=true&locale=en" alt="Premchandar.j" /></p>
+
 
  **BIO DATA**
 

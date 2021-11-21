@@ -1,4 +1,3 @@
-[![IMAGE](	https://i.ibb.co/Kxd7gL7/cover-3.png)](https://prem-official.github.io/Prem-OFFICIAL/)
 <h1 align="center">Hi 👋, I'm Premchandar.j</h1>
 <h1 align="center">A boy who going to create Revolution in Tech</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PREM-OFFICIAL&label=Profile%20views&color=129e00&style=plastic" alt="premchandar.j" /> </p>

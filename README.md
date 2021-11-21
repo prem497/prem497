@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @prem497
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m premchandar 
+- 👀 I’m interested in UI Ux design  web development  mobile app development 
+- 🌱 I’m currently learning python,js,ui design 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-prem497/prem497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach 
